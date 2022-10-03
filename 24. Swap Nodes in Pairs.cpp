@@ -43,7 +43,6 @@ public:
 };
 
 //recursion
-//https://leetcode.com/problems/swap-nodes-in-pairs/discuss/11030/My-accepted-java-code.-used-recursion.
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Swap Nodes in Pairs.
 //Memory Usage: 7.9 MB, less than 9.71% of C++ online submissions for Swap Nodes in Pairs.
 class Solution {
